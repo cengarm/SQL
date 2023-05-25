@@ -1,2 +1,2 @@
 # SQL
-www.patika.dev
+# Notes and assignments I took while learning sql.
