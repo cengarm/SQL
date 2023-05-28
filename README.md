@@ -217,8 +217,6 @@ AND NOT (rental_rate = 2.99 OR rental_rate = 4.99);
 
 <br>
 
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
-
 <br>
 <br>
 
@@ -268,8 +266,6 @@ WHERE first_name IN ('Penelope', 'Nick', 'Ed');
 
 
 <br>
-
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
 
 <br>
 <br>
@@ -335,8 +331,6 @@ WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99;
 
 
 <br>
-
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
 
 <br>
 <br>
@@ -413,8 +407,6 @@ WHERE city ILIKE 'R%'
 
 <br>
 
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
-
 <br>
 <br>
 
@@ -477,8 +469,6 @@ LIMIT 4;
 
 
 <br>
-
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
 
 <br>
 <br>
@@ -546,8 +536,6 @@ WHERE length > 150;
 
 <br>
 
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
-
 <br>
 <br>
 
@@ -614,8 +602,6 @@ LIMIT 1;
 ```
 
 <br>
-
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
 
 <br>
 <br>
@@ -784,8 +770,6 @@ RETURNING *;
 
 <br>
 
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
-
 <br>
 <br>
 
@@ -837,8 +821,6 @@ INNER JOIN rental ON customer.customer_id = rental.customer_id;
 
 
 <br>
-
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
 
 <br>
 <br>
@@ -892,9 +874,6 @@ FULL JOIN customer ON customer.customer_id= payment.customer_id
 
 
 <br>
-
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
-
 <br>
 <br>
 
@@ -987,9 +966,6 @@ FROM customer;
 
 
 <br>
-
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
-
 <br>
 <br>
 
@@ -1069,13 +1045,8 @@ ORDER BY transaction_count DESC;
 
 ```
 <br>
-
-- **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
-
 <br>
-
 <hr>
-
 <br>
 
 Bu repo'da [Patika](https://academy.patika.dev/) SQL eğitimindeki ödevler vardır. 
