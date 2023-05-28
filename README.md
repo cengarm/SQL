@@ -111,20 +111,18 @@ ILIKE operatörü LIKE operatörünün case - insensitive versiyonudur.
 
 <br>
 
- - **SQL Ödev 01 | WHERE ve Karşılaştırma & Mantıksal - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-1--where-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma--mant%C4%B1ksal-operat%C3%B6rler">Tıklayın. </a>**
- - **SQL Ödev 02 | BETWEEN ve IN - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-2--between-ve-in">Tıklayın.</a>**
- - **SQL Ödev 03 |  LIKE ve ILIKE - T<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-3--like-ve-ilike">ıklayın.</a>**
- - **SQL Ödev 04 | DISTINCT ve COUNT - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">Tıklayın.</a>**
- - **SQL Ödev 05 | ORDER BY | LIMIT ve OFFSET - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-5--order-by--limit-ve-offset">Tıklayın.</a>**
- - **SQL Ödev 06 | Aggregate Fonksiyonlar - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-6--aggregate-fonksiyonlar">Tıklayın.</a>**
- - **SQL Ödev 07 | GROUP BY | HAVING - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-7--group-by--having">Tıklayın.</a>**
- - **SQL Ödev 08 | GROUP BY | HAVING - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-8--tablo-olu%C5%9Fturmak--verileri-g%C3%BCncellemek">Tıklayın.</a>**
- - **SQL Ödev 09 | Tablo Oluşturma | Veri Güncelleme" - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join">Tıklayın.</a>**
- - **SQL Ödev 10 | INNER JOIN - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-10--left-join-right-join-full-join">Tıklayın.</a>**
- - **SQL Ödev 11 | LEFT, RIGHT, FULL JOIN - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-11--union-intersect-ve-except">Tıklayın.</a>**
- - **SQL Ödev 12 | UNION, INTERSECT ve EXCEPT - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-12--sorgu-senaryolar%C4%B1">Tıklayın.</a>**
-
-
+ - **SQL Ödev 01 | WHERE ve Karşılaştırma & Mantıksal 
+ - **SQL Ödev 02 | BETWEEN ve IN  
+ - **SQL Ödev 03 |  LIKE ve ILIKE
+ - **SQL Ödev 04 | DISTINCT ve COUNT
+ - **SQL Ödev 05 | ORDER BY | LIMIT ve OFFSET
+ - **SQL Ödev 06 | Aggregate Fonksiyonlar 
+ - **SQL Ödev 07 | GROUP BY | HAVING 
+ - **SQL Ödev 08 | GROUP BY | HAVING
+ - **SQL Ödev 09 | Tablo Oluşturma | Veri Güncelleme" 
+ - **SQL Ödev 10 | INNER JOIN 
+ - **SQL Ödev 11 | LEFT, RIGHT, FULL JOIN </a>**
+ - **SQL Ödev 12 | UNION, INTERSECT ve EXCEPT 
 
 
 <br>
